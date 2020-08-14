@@ -1,6 +1,7 @@
 # AutoQuote
 A VS Code snippet key binding
 to convert `array of number` to `array of string` quickly
+
 [1, 2, 3] => ['1', '2', '3']
 
 ## Demo
