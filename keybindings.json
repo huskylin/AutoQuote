@@ -1,0 +1,10 @@
+// 將按鍵繫結關係放在此檔案中以覆寫預設
+[
+    {
+        "key": "alt+b",
+        "command": "editor.action.insertSnippet",
+        "args": {
+            "snippet": "${TM_SELECTED_TEXT/([^,\\[\\]\\s]+)(,)?/'$1'${2:+,}/g}"
+        }
+    }
+]
