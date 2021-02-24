@@ -24,7 +24,7 @@ or format a object:
 ## Usage
 1. open keybindings.json
     shortcut: `Ctrl+K` + `Ctrl+S`
-2. click this ![icon](https://imgur.com/eciQSyJ)
+2. click this ![icon](https://imgur.com/eciQSyJ.png)
 3. Copy and paste to your snippet setting file
     ``` JSON
     [
@@ -48,7 +48,7 @@ or format a object:
     會開啟類似 GUI 功能的介面。
     ( 或是用快捷鍵 先按 `Ctrl+K` 然後按 `Ctrl+S` )
 2. 將滑鼠挪到右上角，找尋此圖示後，點擊。
-    ![icon](https://imgur.com/eciQSyJ)
+    ![icon](https://imgur.com/eciQSyJ.png)
 3. 貼上
     ``` JSON
     [
