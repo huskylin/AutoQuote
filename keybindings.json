@@ -4,7 +4,7 @@
         "key": "alt+b",
         "command": "editor.action.insertSnippet",
         "args": {
-            "snippet": "${TM_SELECTED_TEXT/([^,\\[\\]\\s]+)(,)?/'$1'${2:+,}/g}"
+            "snippet": "${TM_SELECTED_TEXT/([^,\\[\\]\\s:{}]+)(,)?/'$1'${2:+,}/g}"
         }
     }
 ]
